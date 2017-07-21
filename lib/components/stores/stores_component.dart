@@ -20,7 +20,6 @@ class StoresComponent implements OnInit {
 
   @override
   Future ngOnInit() async {
-    // TODO: implement ngOnInit
     stores = await _storeService.getStores();
   }
 
