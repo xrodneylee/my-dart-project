@@ -11,7 +11,7 @@ import 'package:angular2/router.dart';
 // AngularDart info: https://webdev.dartlang.org/angular
 // Components info: https://webdev.dartlang.org/components
 @RouteConfig(const [
-  const Route(name: 'Stores', path:'/stores', 
+  const Route(name: 'Stores', path:'/', 
     component: StoresComponent, useAsDefault: true),
   const Route(name: 'Detail', path:'/detail/:name', 
     component: StoreDetailComponent)
