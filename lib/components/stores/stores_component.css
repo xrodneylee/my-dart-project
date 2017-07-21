@@ -1,0 +1,10 @@
+li {
+    list-style-type: none;
+    padding: 6px;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: #CCC;
+    color: white;
+}
