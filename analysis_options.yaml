@@ -1,0 +1,52 @@
+analyzer:
+  strong-mode: true
+#   exclude:
+#     - path/to/excluded/files/**
+
+# Lint rules and documentation, see http://dart-lang.github.io/linter/lints
+linter:
+  rules:
+    - avoid_empty_else
+    - cancel_subscriptions
+    - close_sinks
+    - hash_and_equals
+    - iterable_contains_unrelated_type
+    - list_remove_unrelated_type
+    - no_adjacent_strings_in_list
+    - no_duplicate_case_values
+    - throw_in_finally
+    - test_types_in_equals
+    - unrelated_type_equality_checks
+    - valid_regexps
+    - always_declare_return_types
+    - always_put_control_body_on_new_line
+    - avoid_annotating_with_dynamic
+    - await_only_futures
+    - camel_case_types
+    - directives_ordering
+    - empty_catches
+    - implementation_imports
+    - library_names
+    - library_prefixes
+    - non_constant_identifier_names
+    - one_member_abstracts
+    - overridden_fields
+    - parameter_assignments
+    - prefer_adjacent_string_concatenation
+    - prefer_collection_literals
+    - prefer_conditional_assignment
+    - prefer_function_declarations_over_variables
+    - prefer_initializing_formals
+    - prefer_interpolation_to_compose_strings
+    - prefer_is_empty
+    - prefer_is_not_empty
+    - recursive_getters
+    - type_annotate_public_apis
+    - type_init_formals
+    - unawaited_futures
+    - unnecessary_brace_in_string_interps
+    - unnecessary_lambdas
+    - unnecessary_this
+    - use_rethrow_when_possible
+    - use_string_buffers
+    - package_names

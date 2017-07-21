@@ -1,0 +1,47 @@
+[
+  {
+    "name": "炒泰香",
+    "desc": "炒飯專賣",
+    "address": {
+      "street": "正忠路三民區6號",
+      "city": "高雄市",
+      "zipcode": 807
+    }
+  },
+  {
+    "name": "戴林手工潮州餛飩麵",
+    "desc": "麵店",
+    "address": {
+      "street": "三民區正忠路33號",
+      "city": "高雄市",
+      "zipcode": 807
+    }
+  },
+  {
+    "name": "呂姐燒肉飯",
+    "desc": "燒肉飯",
+    "address": {
+      "street": "建興路三民區86號",
+      "city": "高雄市",
+      "zipcode": 807
+    }
+  },
+  {
+    "name": "逮丸山田",
+    "desc": "拉麵丼飯",
+    "address": {
+      "street": "三民區大順二路242-3號",
+      "city": "高雄市",
+      "zipcode": 807
+    }
+  },
+  {
+    "name": "清香園",
+    "desc": "麵店",
+    "address": {
+      "street": "三民區鼎山街625號",
+      "city": "高雄市",
+      "zipcode": 807
+    }
+  }
+]
