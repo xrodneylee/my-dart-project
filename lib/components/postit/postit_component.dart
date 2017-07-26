@@ -3,7 +3,7 @@ import 'package:angular2/angular2.dart';
 import 'package:angular2/router.dart';
 
 @Component(
-  selector: 'postit',
+  selector: 'postit-component',
   templateUrl: 'postit_component.html',
   styleUrls: const ['postit_component.css']
 )

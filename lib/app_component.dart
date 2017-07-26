@@ -5,7 +5,6 @@ import 'dart:async';
 import 'package:Whats_for_lunch/components/postit/postit_component.dart';
 import 'package:Whats_for_lunch/services/postit_service.dart';
 import 'package:angular2/angular2.dart';
-import 'services/postit_service.dart';
 
 // AngularDart info: https://webdev.dartlang.org/angular
 // Components info: https://webdev.dartlang.org/components
